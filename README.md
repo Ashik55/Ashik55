@@ -28,6 +28,10 @@
     <img src="https://img.shields.io/github/stars/Ashik55?label=Stars&style=flat-square&logo=github&color=7c3aed&labelColor=1e1b4b&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://github.com/Ashik55?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAshik55&color=7c3aed&labelColor=1e1b4b" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/md-ashikur-rahman-cse/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=flat-square&logo=linkedin&labelColor=1e1b4b&logoColor=white" />
   </a>
@@ -38,6 +42,14 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=Ashik55&label=Profile+Views&color=7c3aed&labelColor=1e1b4b&style=flat-square" />
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+`About` • `Tech Stack` • `Analytics` • `Projects` • `Contact`
 
 </div>
 
@@ -73,8 +85,8 @@ currently_building:
 ### 🎯 &nbsp;Quick Stats
 
 ```
-Repositories     →  127+
-Languages        →  10+
+Public Repos     →  Auto-updated badge above
+Core Languages   →  TypeScript · Dart · Kotlin · Swift
 Stack            →  Full-Stack + Mobile
 Open Source      →  Yes ✓
 Available for    →  Collabs & Contracts
@@ -253,7 +265,7 @@ Full-stack monorepo template with Next.js + React Native (Expo). Share code acro
 
 <p align="center">
   <a href="https://github.com/Ashik55?tab=repositories">
-    <img src="https://img.shields.io/badge/→_View_all_127%2B_repositories-1e1b4b?style=for-the-badge&logo=github&logoColor=c4b5fd&color=1e1b4b" />
+    <img src="https://img.shields.io/badge/→_View_all_repositories-1e1b4b?style=for-the-badge&logo=github&logoColor=c4b5fd&color=1e1b4b" />
   </a>
 </p>
 
