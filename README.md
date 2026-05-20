@@ -6,6 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Ashik55?label=Followers&style=for-the-badge&logo=github&color=24292f)](https://github.com/Ashik55?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Ashik55?label=Total%20Stars&style=for-the-badge&logo=github&color=24292f)](https://github.com/Ashik55)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashikur-rahman-cse/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9816845/md-ashikur-rahman)
 
 Building scalable web apps, mobile experiences, automation, and polished UI/UX.
@@ -101,6 +102,7 @@ Building scalable web apps, mobile experiences, automation, and polished UI/UX.
 
 <p align="center">
   <a href="https://github.com/Ashik55"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/md-ashikur-rahman-cse/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/9816845/md-ashikur-rahman"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
