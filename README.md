@@ -19,6 +19,7 @@ Building scalable web apps, mobile experiences, automation, and polished UI/UX.
 ## 🚀 Tech stack
 
 ### Web & backend
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,6 +29,7 @@ Building scalable web apps, mobile experiences, automation, and polished UI/UX.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Mobile
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -69,16 +71,16 @@ Building scalable web apps, mobile experiences, automation, and polished UI/UX.
 
 ## 🛠 Featured projects
 
-| Project | Stack | Description |
-|--------|-------|-------------|
-| [**breadit**](https://github.com/Ashik55/breadit) | Next.js · TypeScript | Modern full-stack Reddit clone |
-| [**launch-ui**](https://github.com/Ashik55/launch-ui) | React · Tailwind · shadcn/ui | Landing page kit — copy, paste, ship |
-| [**b2b-starter-medusa**](https://github.com/Ashik55/b2b-starter-medusa) | Medusa · E-commerce | B2B commerce starter template |
-| [**create-t3-turbo**](https://github.com/Ashik55/create-t3-turbo) | T3 · Expo | Full-stack monorepo with React Native |
-| [**encipher-x-ios**](https://github.com/Ashik55/encipher-x-ios) | Swift · SwiftUI | Next-gen Matrix client for iOS |
-| [**react-native-live-translator**](https://github.com/Ashik55/react-native-live-translator) | React Native | Real-time translation app |
-| [**whatsapp-clone-react-native**](https://github.com/Ashik55/whatsapp-clone-react-native) | React Native | WhatsApp-style chat clone |
-| [**shadcn-studio**](https://github.com/Ashik55/shadcn-studio) | shadcn/ui | Copy-paste components, blocks & templates |
+| Project                                                                                     | Stack                        | Description                               |
+| ------------------------------------------------------------------------------------------- | ---------------------------- | ----------------------------------------- |
+| [**breadit**](https://github.com/Ashik55/breadit)                                           | Next.js · TypeScript         | Modern full-stack Reddit clone            |
+| [**launch-ui**](https://github.com/Ashik55/launch-ui)                                       | React · Tailwind · shadcn/ui | Landing page kit — copy, paste, ship      |
+| [**b2b-starter-medusa**](https://github.com/Ashik55/b2b-starter-medusa)                     | Medusa · E-commerce          | B2B commerce starter template             |
+| [**create-t3-turbo**](https://github.com/Ashik55/create-t3-turbo)                           | T3 · Expo                    | Full-stack monorepo with React Native     |
+| [**encipher-x-ios**](https://github.com/Ashik55/encipher-x-ios)                             | Swift · SwiftUI              | Next-gen Matrix client for iOS            |
+| [**react-native-live-translator**](https://github.com/Ashik55/react-native-live-translator) | React Native                 | Real-time translation app                 |
+| [**whatsapp-clone-react-native**](https://github.com/Ashik55/whatsapp-clone-react-native)   | React Native                 | WhatsApp-style chat clone                 |
+| [**shadcn-studio**](https://github.com/Ashik55/shadcn-studio)                               | shadcn/ui                    | Copy-paste components, blocks & templates |
 
 <p align="center">
   <a href="https://github.com/Ashik55?tab=repositories"><strong>→ View all 127+ repositories</strong></a>
