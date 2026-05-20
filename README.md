@@ -42,12 +42,12 @@ Building scalable web apps, mobile experiences, automation, and polished UI/UX.
 ## 📈 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashik55&show_icons=true&theme=tokyo_night&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashik55&theme=tokyo_night&hide_border=true" alt="GitHub streak" height="165" />
+  <img src="./profile/stats.svg" alt="GitHub stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Ashik55&theme=tokyo_night&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik55&layout=compact&theme=tokyo_night&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="./profile/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
